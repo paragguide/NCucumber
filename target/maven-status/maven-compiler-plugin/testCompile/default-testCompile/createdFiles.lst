@@ -1,0 +1,8 @@
+testcases\PasswordTest.class
+testcases\Runner.class
+utility\ScreenShot.class
+core\Hook.class
+externalxpath\AmazonXpath.class
+testcases\ProductSearch.class
+testcases\UseridTest.class
+core\Page.class
